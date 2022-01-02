@@ -6,12 +6,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="estilo/main.css">
+  <link rel="stylesheet" href="estilo/responsive.css">
+
+  <link rel="stylesheet" href="estilo/owl/owl.carousel.min.css">
+  <link rel="stylesheet" href="estilo/owl/owl.theme.default.min.css">
 </head>
 
 <body>
   <header>
     <div class="container">
-      <h2>NETFLIX</h2>
+      <h2 class="logo">NETFLIX</h2>
       <nav>
         <a href="#">Início</a>
         <a href="#">Séries</a>
@@ -20,5 +24,59 @@
       </nav>
     </div>
   </header>
+
+  <main>
+    <div class="filme-principal">
+      <div class="container">
+        <h3 class="titulo">HOUSE OF CARDS</h3>
+        <p class="descricao">Nada pode impedir o político sem escrúpulos Frank Underwood de conquistar Washington. Assista agora a nova temporada de House of Cards que está imperdível.</p>
+        <div class="botoes">
+          <button role="button" class="botao"><i class="fas fa-play"></i>ASSISTIR AGORA</button>
+          <button role="button" class="botao"><i class="fas fa-info-circle"></i>MAIS INFORMAÇÕES</button>
+        </div>
+      </div>  
+    </div>
+  </main>
+
+  <div class="carrossel-filmes">
+    <div class="owl-carousel owl-theme">
+      <div class="item">
+        <img class="box-filme" src="imagens/mini1.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini2.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini3.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini4.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini5.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini6.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini7.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini8.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini9.jpg" alt="pôster do filme ...">
+      </div>
+      <div class="item">
+        <img class="box-filme" src="imagens/mini10.jpg" alt="pôster do filme ...">
+      </div>
+    </div>
+  </div>
+
+  <script src="https://kit.fontawesome.com/9f46c28665.js" crossorigin="anonymous"></script>
+
+  <script src="script/owl/jquery.min.js"></script>
+  <script src="script/owl/owl.carousel.min.js"></script>
+  <script src="script/owl/setup.js"></script>
 </body>
 </html>
