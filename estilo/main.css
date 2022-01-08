@@ -48,7 +48,7 @@ header nav a:hover {
 
 .destaque {
   align-items: flex-start;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/imagens/destaques.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/imagens/destaques2.jpg');
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -60,11 +60,13 @@ header nav a:hover {
 .destaque .titulo {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 40px;
-  margin-top: 15%;
+  margin-top: 19%;
 }
 
 .destaque .descricao {
+  font-size: 17px;
   margin-bottom: 40px;
+  margin-top: 22px;
   width: 70%;
 }
 
