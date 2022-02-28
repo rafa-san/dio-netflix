@@ -1,4 +1,4 @@
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 500px) {
   nav a {
     display: flex;
     flex-direction: column;
@@ -17,21 +17,32 @@
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
   header .container {
     display: flex;
     flex-direction: column;
-    margin-bottom: 10px;
+    margin: 0 0 10px 0;
+  }
+
+  .destaque {
+    height: 450px;
+  }
+
+  p.descricao {
+    width: 100%;
+  }
+
+  .botoes {
+    flex-direction: column;
+    width: 100%;
   }
 
   .botao {
-    margin-top: 5px;
-    width: 300;
+    margin-top: 8px;
+    width: 60%;
   }
-}
 
-@media screen and (min-width: 1000px) {
-  .descricao {
-    width: 50%;
+  .carrossel-filmes {
+    margin-top: 20px;
   }
 }
