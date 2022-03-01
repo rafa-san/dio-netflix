@@ -48,7 +48,6 @@ header nav a:hover {
 
 .destaque {
   align-items: flex-start;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../imagens/destaques2.jpg');
   background-size: cover;
   display: flex;
   flex-direction: column;
