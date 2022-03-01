@@ -12,6 +12,8 @@
 
 <p>O projeto concluído você pode conferir no link abaixo.</p>
 
-<a href="rafa-san.github.io/dio-netflix/" target="_blank">Projeto DIO - Netflix Clone</a>
+<a href="https://rafa-san.github.io/dio-netflix/" target="_blank">Projeto DIO - Netflix Clone</a>
+
+
 
 
