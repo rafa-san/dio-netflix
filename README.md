@@ -1,6 +1,8 @@
-<h1>Desafio de Projeto da Digital Innovation One</h1>
+<h1>Interface da Netflix</h1>
 
-<p>Este projeto também foi uma das atividades do <strong>Bootcamp HTML Web Developer</strong>. Desta vez o objetivo foi recriar a interface da Netflix utilizando HTML5, CSS3 e JavaScript.</p>
+<p>Este projeto foi uma das atividades do <strong>Bootcamp HTML Web Developer</strong> da <strong>Digital Innovation One</strong>.</p>
+
+<p>O objetivo foi recriar a interface da Netflix utilizando HTML5, CSS3 e JavaScript.</p>
 
 <p>Em relação ao modelo original, desenvolvido pelo instrutor Felipe Aguiar, eu fiz três alterações.</p>
 
