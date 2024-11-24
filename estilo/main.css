@@ -22,8 +22,8 @@ body {
 ================ */
 
 header .container {
-  align-items: center;
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 
@@ -47,13 +47,13 @@ header nav a:hover {
 ================== */
 
 .destaque {
-  align-items: flex-start;
-  background-size: cover;
   display: flex;
+  align-items: flex-start;
   flex-direction: column;
+  justify-content: center;
+  background-size: cover;
   font-size: 16px;
   height: 430px;
-  justify-content: center;
 }
 
 .destaque .titulo {
@@ -120,8 +120,8 @@ header nav a:hover {
 ======================= */
 
 .item {
-  cursor: pointer;
   position: relative;
+  cursor: pointer;
 }
 
 .item:hover .imagem {
@@ -129,6 +129,8 @@ header nav a:hover {
 }
 
 .texto {
+  position: absolute;
+  top: 0;
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
   font-size: 24px;
@@ -136,9 +138,7 @@ header nav a:hover {
   line-height: 1.5;
   opacity: 0;
   padding: 0 2px;
-  position: absolute;
   text-align: center;
-  top: 0;
   transition: .5s ease;
   width: 100%;
 }
