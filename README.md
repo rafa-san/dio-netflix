@@ -2,15 +2,15 @@
 
 # Recriando a Interface do Netflix
 
-## 1️⃣ Apresentação
-Este projeto prático foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
+## 1️⃣ Objetivo
+Recriar a interface do principal site de streaming mundial, a Netflix, utilizando HTML5, CSS3 e JavaScript.
+
+## 2️⃣ Descrição
+Este projeto foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
 
 A atividade foi conduzida pelo instrutor **Felipe Aguiar**.
 
-## 2️⃣ Objetivo
-Recriar a interface do principal site de streaming mundial, a Netflix, utilizando HTML5, CSS3 e JavaScript.
-
-Durante o projeto, foram trabalhadas habilidades essenciais de front-end, incluindo:
+Durante o projeto, foram trabalhadas algumas habilidades essenciais de front-end, incluindo:
 
 - Estruturação de layouts com HTML;
 - Estilização de elementos utilizando CSS;
@@ -23,8 +23,8 @@ Durante o projeto, foram trabalhadas habilidades essenciais de front-end, inclui
 ## 3️⃣ Principais Modificações
 Na minha versão do projeto, fiz algumas alterações para torná-lo mais personalizado e funcional:
 
-**Tema e capas dos filmes:**
-- Alterei o tema para uma seleção de **filmes dos anos 1990**. Como não encontrei uma imagem pronta que correspondesse à ideia que tinha em mente, criei uma capa personalizada utilizando o **Microsoft Paint**.
+**Tema e imagem de fundo:**
+- Alterei o tema para uma seleção de **filmes dos anos 1990**. Como não encontrei uma imagem de fundo (<code>background-image</code>) pronta que correspondesse à ideia que eu tinha em mente, criei uma utilizando o **Microsoft Paint**.
 
 **Efeito hover overlay:**
 - Adicionei um efeito especial ao passar o mouse sobre a capa de um filme. Nesse efeito, a capa escurece levemente, e uma <code>tooltip</code> aparece com informações como título, ano de lançamento e diretor. Me inspirei em plataformas de streaming que utilizam esse tipo de funcionalidade.
