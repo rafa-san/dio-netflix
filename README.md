@@ -1,9 +1,9 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# Recriando a Interface do Netflix
+# HTML Web Developer #4 | Recriando a Interface da Netflix
 
 ## 1️⃣ Objetivo
-Recriar a interface do principal site de streaming mundial, a Netflix, utilizando HTML5, CSS3 e JavaScript.
+Recriar a interface da Netflix utilizando HTML5, CSS3 e JavaScript.
 
 ## 2️⃣ Descrição
 Este projeto foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
@@ -50,7 +50,7 @@ Na minha versão do projeto, fiz algumas alterações para torná-lo mais person
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao instrutor Felipe Aguiar e à equipe da DIO por disponibilizarem este conteúdo enriquecedor!
+Agradeço ao instrutor **Felipe Aguiar** e à equipe da **DIO** pelo excelente conteúdo, que contribuiu demais para o meu aprendizado e para a construção do meu portfólio.
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
 ## 6️⃣ Licença
